@@ -278,6 +278,25 @@ i {
     max-width: 350px;
   }
 }
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 54px 0;
+  gap: 24px;
+  color: #FFF;
+}
+.footer img {
+  max-width: 400px;
+}
+
+.footer-icons {
+  display: flex;
+  gap: 23px;
+  color: #FFF;
+}
+
 body {
   font-family: "Sora", sans-serif;
   width: 100%;
