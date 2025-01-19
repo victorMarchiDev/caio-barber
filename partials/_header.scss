@@ -52,9 +52,11 @@ i{
     align-items: center;
     justify-content: center;
     margin-top: 14px;
+    max-width: 400px;
+   
 }
 
-@media screen and (max-widht: 768px){
+@media screen and (max-width: 768px){
 
 .header-content{
     width: 100%;
@@ -69,8 +71,8 @@ i{
 }
 
     .header-logo img{
-        width: 160px;
-        margin-top: 46px;
+        width: 180px;
+        margin-top: 110px;
     }
 
     .header-button{
