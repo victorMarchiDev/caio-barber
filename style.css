@@ -56,7 +56,9 @@ i {
   align-items: center;
   justify-content: center;
   margin-top: 14px;
-  max-width: 400px;
+  max-width: 200px;
+  position: relative;
+  right: -35px;
 }
 
 @media screen and (max-width: 768px) {
@@ -70,9 +72,10 @@ i {
     margin-top: 16px;
     font-size: 34px;
   }
-  .header-logo img {
-    width: 180px;
+  .header-logo {
+    width: 400px;
     margin-top: 110px;
+    right: 0px;
   }
   .header-button {
     display: none;
@@ -295,6 +298,10 @@ i {
   display: flex;
   gap: 23px;
   color: #FFF;
+}
+
+.footer-icons i:hover {
+  color: #d34040;
 }
 
 .btn-whatsapp {

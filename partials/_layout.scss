@@ -236,6 +236,12 @@
     color: $white-normal;
 }
 
+.footer-icons{
+    i:hover{
+        color: $red-light;
+    }
+}
+
 .btn-whatsapp{
     position: fixed;
     bottom: 14px;
