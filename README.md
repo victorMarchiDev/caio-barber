@@ -1,6 +1,6 @@
 # Caio-Barber
 
-**Caio-Barber** é um projeto de landing page desenvolvido para uma barbearia local, destacando seus serviços e estilo. A página foi construída utilizando **HTML**, **CSS** e **SCSS (Sass)** para criar um design moderno, atrativo e funcional.
+**Caio-Barber** é um projeto front-end de landing page desenvolvido para uma barbearia local, destacando seus serviços e estilo. A página foi construída utilizando **HTML**, **CSS** e **SCSS (Sass)** para criar um design moderno, atrativo e funcional.
 
 ## 💈 Sobre a Barbearia
 A barbearia oferece uma ampla variedade de serviços especializados, incluindo:
