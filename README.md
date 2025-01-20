@@ -13,4 +13,7 @@ A barbearia oferece uma ampla variedade de serviços especializados, incluindo:
 ## 🚀 Tecnologias Utilizadas
 - **HTML**: Estruturação do conteúdo.  
 - **CSS**: Estilização e design.  
-- **SCSS (Sass)**: Extensão do CSS para facilitar a manutenção e organização dos estilos.  
+- **SCSS (Sass)**: Extensão do CSS para facilitar a manutenção e organização dos estilos.
+
+## 📄 Confira o projeto no ar abaixo!
+- https://caio-barber.vercel.app
